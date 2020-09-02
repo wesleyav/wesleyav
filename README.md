@@ -71,4 +71,6 @@ Meu currículo: https://github.com/wesleyav/curriculo
 
 
 
-[![HitCount](http://hits.dwyl.com/wesleyav/wesleyav.svg)](http://hits.dwyl.com/wesleyav/wesleyav)
+<!-- [![HitCount](http://hits.dwyl.com/wesleyav/wesleyav.svg)](http://hits.dwyl.com/wesleyav/wesleyav) -->
+
+![](https://komarev.com/ghpvc/?username=wesleyav&label=PROFILE+VIEWS)
