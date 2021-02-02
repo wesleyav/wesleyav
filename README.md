@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 Meu nome é Wesley e este é o meu perfil no Github!
 
-* 🔭 Atualmente estou trabalhando no desenvolvimento de projetos pessoais 
-* 🌱 Atualmente estou aprendendo  JavaScript, React, Rest, NodeJS, Automatizações, libs, etc.
+* 🔭 Atualmente estou trabalhando no desenvolvimento de projetos pessoais.
+* 🌱 Atualmente estou aprendendo  JavaScript, React, Rest, NodeJS, Java, Java Spring, Devops, Automatizações, libs, etc.
 
 
 
@@ -26,20 +26,67 @@ Meu currículo: https://github.com/wesleyav/curriculo
 
 ---
 
-
 ### Skills 
+ <ul>
+    <li><b>Front End</li>    
+        <!-- HTML -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" height="50" />
+        <!-- CSS3 -->
+        <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" height="50" />
+        <!-- JAVASCRIPT -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="50" />   
+</ul>
 
-<div style="display: flex; justify-content: space-between">
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs" height="50" />
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />   
+<ul>
+    <li>Frameworks</li>
+        <!-- EXPRESS JS -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" height="50" /> 
+        <!-- BOOTSTRAP -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="50" /> 
+</ul>
 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="Debian" height="50" />  
+<ul>
+    <li>Runtimes</li>
+        <!-- NODEJS -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs" height="50" />
+</ul>
+
+<ul>
+    <li>Back End</li>        
+        <!-- JAVA -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="50" /> 
+        <!-- JAVA SPRING -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" height="50" />   
+</ul>
+
+<ul>
+    <li>Versionamento</li>    
+        <!-- GIT -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="50" />  
+</ul>
+
+<ul>
+    <li>Servidores</li>
+        <!-- NGINX -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="Nginx" height="50" />
+        <!-- APACHE -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" alt="Apache Tomcat" height="50" />  
+</ul>
+
+<ul>
+    <li>DevOps</li>        
+        <!-- DOCKER -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="50" /> 
+        <!-- VAGRANT -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg" alt="Vagrant" height="50" />  
+</ul>
+
+<ul>
+    <li>Sistemas Operacionais</li>
+        <!-- DEBIAN -->
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="Debian" height="50" />  
+</ul>
+
 
 
 <!-- <img style="margin: 10px" src="" alt="" height="50" />   -->
